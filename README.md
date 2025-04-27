@@ -4,7 +4,7 @@ A simple web application that demonstrates the Picture-in-Picture (PiP) function
 
 ## Live Demo
 
-Check out the live application here: [Picture-in-Picture App](https://rahulkumarmanna.github.io/picture-in-picture/)
+Check out the live application here: [Picture-in-Picture App](https://rkmana.github.io/picture-in-picture/)
 
 ## Features
 
@@ -25,4 +25,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahulkumarmanna/picture-in-picture.git
+   git clone https://github.com/rkmana/picture-in-picture.git
